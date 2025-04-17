@@ -1,5 +1,7 @@
 # Damage Detection Model API
 
+Members: Parth Patki, Adithya Ramanathan
+
 This project implements a deep learning model for detecting damage in images, served through a Flask API.
 
 ## Project Structure
